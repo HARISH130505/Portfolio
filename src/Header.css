@@ -1,0 +1,20 @@
+.head{
+    margin:20px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    padding:10px;
+}
+li:hover{
+    cursor:pointer;
+}
+li a{
+    text-decoration: none;
+}

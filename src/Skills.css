@@ -1,0 +1,20 @@
+.skill{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:50px 30px;
+    margin-top:50px;
+    margin-left:100px;
+}
+.i{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+}
+.h{
+    text-align: center;
+    margin:20px;
+    
+}
+.ok{
+    margin-top: 200px;
+}

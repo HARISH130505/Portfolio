@@ -1,0 +1,52 @@
+.cent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:50px;
+}
+.moredet{
+    width:fit-content;
+    border-style: solid ;
+    border-color: cyan;
+    color:white;
+    border-radius: 20px;
+    padding:15px;
+    animation-name: glow;
+    animation-duration:5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+@keyframes glow{
+    50%{
+        box-shadow: 0px 0px 100px cyan;
+    }
+}
+.cn{
+    text-align: center;
+}
+.md{
+    margin-top: 200px;
+}
+.res{
+    display: flex;
+    justify-content: right;
+}
+.btn{
+    padding:15px;
+    border:none;
+    border-radius: 10px;
+    background:linear-gradient(to bottom, #358099, #009cbf);
+    font-family: "Turret Road", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    color:black;
+}
+@keyframes glow{
+    50%{
+        box-shadow: 0px 0px 100px cyan;
+    }
+}
+a{
+    color:cyan
+}

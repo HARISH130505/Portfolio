@@ -1,0 +1,40 @@
+.pro{
+    background-color: rgb(94, 85, 85);
+    border-radius: 20px;
+    width:500px;
+    margin:20px;
+    padding:10px;
+}
+.smthg{
+    display: flex;
+    padding:10px;
+}
+.n{
+    padding-left:20px;
+}
+.icon{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.des{
+    padding-left:20px;
+}
+.pro a{
+    padding-left: 20px;
+    padding-bottom:10px;
+    color:navy
+}
+.huh{
+    text-align: center;
+}
+.main{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:50px 30px;
+    margin-left:100px;
+}
+#projects{
+    margin-top: 200px;
+}

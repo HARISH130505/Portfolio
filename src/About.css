@@ -1,0 +1,36 @@
+.am{
+    padding:20px;
+    width:500px;
+    text-align: left;
+}
+.abm{
+    display: flex;
+    justify-content: space-between;
+}
+.profile{
+    border-radius:100px;
+    width:350px;
+    height:430px;
+    object-fit: cover;
+    margin:30px;
+    animation-name: glow;
+    animation-duration:5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+@keyframes glow{
+    50%{
+        box-shadow: 0px 0px 200px cyan;
+    }
+}
+.m{
+    padding:10px;
+    border:none;
+    border-radius: 10px;
+    background:linear-gradient(to bottom, #358099, #009cbf);
+    font-family: "Turret Road", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    text-decoration: none;
+}
