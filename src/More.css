@@ -41,6 +41,7 @@
     font-style: normal;
     font-size: 25px;
     color:black;
+    cursor: pointer;
 }
 @keyframes glow{
     50%{
