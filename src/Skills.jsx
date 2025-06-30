@@ -37,7 +37,7 @@ function Skills() {
 
   return (
     <div id="skills" className="mt-15 pt-25 pb-15 px-4 sm:px-10">
-      <h1 className="text-center text-3xl sm:text-3xl font-bold mb-10 text-cyan-400">
+      <h1 className="text-center text-3xl font-bold mb-10 text-cyan-400">
         SKILLS
       </h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-y-12 gap-x-6 justify-items-center">

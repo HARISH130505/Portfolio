@@ -43,7 +43,7 @@ function About() {
       </div>
 
       <div className="max-w-3xl text-center md:text-left space-y-8">
-        <h1 className="text-4xl sm:text-3xl font-bold text-cyan-400 drop-shadow-md mb-6">
+        <h1 className="text-3xl font-bold text-cyan-400 drop-shadow-md mb-6">
           ABOUT ME
         </h1>
 

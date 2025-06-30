@@ -41,7 +41,7 @@ function Projects() {
 
   return (
     <div id="projects" className="mt-15 pt-25 pb-15 px-4 sm:px-10">
-      <h1 className="text-center text-3xl sm:text-3xl font-bold mb-12 text-cyan-400">
+      <h1 className="text-center text-3xl font-bold mb-12 text-cyan-400">
         MY PROJECTS
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-8 justify-items-center">

@@ -19,7 +19,7 @@ function More() {
       `}</style>
 
       <div id="moree" className="mt-15 pt-25 pb-15 px-4 sm:px-8">
-        <h1 className="text-center text-3xl sm:text-4xl font-bold mb-12 text-cyan-400">
+        <h1 className="text-center text-3xl font-bold mb-12 text-cyan-400">
           MORE DETAILS
         </h1>
         <div className="flex justify-center items-center mb-12">
