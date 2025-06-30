@@ -1,4 +1,4 @@
-# 🚀 React + Vite Portfolio Website
+# 🚀 Portfolio Website
 
 This is a **portfolio website** built with **React** and **Vite**, featuring hot module replacement (HMR), modern styling with **Tailwind CSS**, interactive backgrounds using **react-tsparticles**, and smooth client-side navigation via **React Router**.
 
