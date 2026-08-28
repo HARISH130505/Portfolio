@@ -36,10 +36,10 @@ function More() {
               <span className="font-semibold text-cyan-200">COURSE:</span> B.TECH CSE
             </h5>
             <h5 className="mb-2">
-              <span className="font-semibold text-cyan-200">CGPA:</span> 9.65
+              <span className="font-semibold text-cyan-200">CGPA:</span> 9.59
             </h5>
             <h5 className="mb-2">
-              <span className="font-semibold text-cyan-200">POSITION:</span> Technical Lead at CODEZILLA (A Mozilla Community)
+              <span className="font-semibold text-cyan-200">POSITION:</span> Web Developer Intern at Marlensoft Pvt. Ltd.
             </h5>
             <h5 className="mb-2">
               <span className="font-semibold text-cyan-200">GITHUB:</span>{' '}
@@ -59,12 +59,12 @@ function More() {
             <h5 className="mb-4">
               <span className="font-semibold text-cyan-200">MAIL ID:</span>{' '}
               <a href="mailto:harish13.05.05@gmail.com" className="text-blue-400 hover:text-blue-300 underline transition-colors duration-200">
-                harish13.05.05@gmail.com
+                harish10.exe@gmail.com
               </a>
             </h5>
             <div className="flex justify-end mt-6">
               <a
-                href="https://drive.google.com/file/d/1uRDLH0CTE0kpBcRnuimdyzJy1uM8T7-d/view?usp=sharing"
+                href="https://drive.google.com/file/d/1dVirdzIHCZOLHibTAGFAhSpJYtrZuzIS/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -63,7 +63,7 @@ function About() {
           <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
             <h2 className="text-2xl font-semibold text-cyan-300 mb-3">Backend Development</h2>
             <p className="text-base text-gray-300 leading-relaxed">
-              On the backend, I build secure and efficient APIs and database systems primarily with <span className="font-semibold text-cyan-200">Node.js</span> and <span className="font-semibold text-cyan-200">Express.js</span>. I use <span className="font-semibold text-cyan-200">MongoDB</span> for flexible and scalable data storage, bringing robust server-side logic to life.
+              On the backend, I build secure and efficient APIs and database systems primarily with <span className="font-semibold text-cyan-200">Node.js</span> and <span className="font-semibold text-cyan-200">Express.js</span>. I use <span className="font-semibold text-cyan-200">MongoDB</span> <span className="font-semibold text-cyan-200">, MySQL</span> and <span className="font-semibold text-cyan-200">PostgreSQL</span> for flexible and scalable data storage, bringing robust server-side logic to life.
             </p>
           </div>
 

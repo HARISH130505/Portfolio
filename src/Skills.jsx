@@ -7,9 +7,9 @@ import F from './assets/tailwind.png';
 import G from './assets/nodejs.png';
 import H from './assets/express.png';
 import I from './assets/mongodb.png';
-import J from './assets/mongoose.png';
-import K from './assets/sql.png';
-import L from './assets/mysql.png';
+import J from './assets/mysql.png';
+import K from './assets/pgsql.jpg';
+import L from './assets/sql.png';
 import M from './assets/python.png';
 import N from './assets/java.png';
 import O from './assets/c.png';
@@ -26,9 +26,9 @@ function Skills() {
     { src: G, name: 'Node.js' },
     { src: H, name: 'Express.js' },
     { src: I, name: 'MongoDB' },
-    { src: J, name: 'Mongoose' },
-    { src: K, name: 'SQL' },
-    { src: L, name: 'MySQL' },
+    { src: J, name: 'MySQL' },
+    { src: K, name: 'PostgreSQL' },
+    { src: L, name: 'SQL' },
     { src: M, name: 'Python' },
     { src: N, name: 'Java' },
     { src: O, name: 'C Language' },

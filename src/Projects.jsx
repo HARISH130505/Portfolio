@@ -1,29 +1,9 @@
-import Skart from './assets/skart.png';
-import MedFolio from './assets/medfolio.png';
-import SoundBloc from './assets/sb.png'
 import CareerForge from './assets/cf.jpg';
 import Meif from './assets/meif.png';
+import Pgp from './assets/pgp.jpeg'
 
 function Projects() {
   const projects = [
-    {
-      title: 'S-KART',
-      img: Skart,
-      desc: 'Created my first responsive e-commerce website using HTML, CSS, and JavaScript, focused exclusively on selling stationary products. Implemented core features inspired by Amazon, including product listings, search functionality, cart management, and a user-friendly interface.',
-      link: 'https://s-kart.vercel.app/',
-    },
-    {
-      title: 'MEDFOLIO',
-      img: MedFolio,
-      desc: 'Created a seamless, secure, and accessible global healthcare website where patient records are readily available to authorized healthcare providers worldwide. Maintains the highest standards of privacy and security.',
-      link: 'https://med-folio.vercel.app/',
-    },
-    {
-      title: 'SOUNDBLOC',
-      img: SoundBloc,
-      desc: 'Developed the frontend interface for SoundBloc, a decentralized music label empowering artists to earn directly through NFT sales and micropayments.Also implemented the functionality for uploading and managing songs within a MongoDB database.',
-      link: 'https://devfolio.co/projects/soundbloc-fa36',
-    },
     {
       title: 'CAREER FORGE',
       img: CareerForge,
@@ -36,6 +16,26 @@ function Projects() {
       desc: 'Developed a website to support an environmental initiative focused on native tree planting, hygiene awareness, and green space creation by school students. The site facilitates collaboration with organizations and provides advocacy resources.',
       link: 'https://www.motherearthindia.org.in/',
     },
+    {
+      title: 'PGP Associates',
+      img: Pgp,
+      desc: 'Built a full-stack advisory consultation platform enabling users to explore services and seamlessly book consultations. Integrated secure payment verification, automated email confirmations and Google Meet links with a responsive user interface.',
+      link: 'https://pgpassociates19.com/',
+    },
+    {
+      title: 'Homie Foods',
+      img: 'placeholder.png',
+      desc: 'Built a modern web platform connecting customers with home chefs, making authentic home-cooked food more accessible through seamless ordering. Empowered vendors with dedicated dashboards, real-time order tracking, and scalable backend management.',
+      link: 'https://github.com/HARISH130505/HomieFoods',
+    },
+    {
+      title: 'FloatChat',
+      img: 'placeholder.png',
+      desc: 'Developed FloatChat, an AI-powered ocean analytics platform enabling natural language exploration of large-scale ARGO datasets with interactive visualizations. Built a data pipeline for chatbot, anomaly detection, and time-series forecasting to deliver reliable ocean insights.',
+      link: 'https://github.com/HARISH130505/Floatchat',
+    },
+
+
     
   ];
 
