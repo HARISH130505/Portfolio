@@ -26,13 +26,19 @@ function Projects() {
       title: 'Homie Foods',
       img: 'placeholder.png',
       desc: 'Built a modern web platform connecting customers with home chefs, making authentic home-cooked food more accessible through seamless ordering. Empowered vendors with dedicated dashboards, real-time order tracking, and scalable backend management.',
-      link: 'https://github.com/HARISH130505/HomieFoods',
+      link: 'https://homiefoods.vercel.app/',
     },
     {
       title: 'FloatChat',
       img: 'placeholder.png',
       desc: 'Developed FloatChat, an AI-powered ocean analytics platform enabling natural language exploration of large-scale ARGO datasets with interactive visualizations. Built a data pipeline for chatbot, anomaly detection, and time-series forecasting to deliver reliable ocean insights.',
-      link: 'https://github.com/HARISH130505/Floatchat',
+      link: 'https://floatchat-lx7hr5qgx36canrejtznir.streamlit.app/',
+    },
+    {
+      title: 'IntelView',
+      img: 'placeholder.png',
+      desc: 'Built an AI-powered interview platform using Next.js, Express.js, Prisma, Neon PostgreSQL, and Gemini AI for company-specific research, resume/JD analysis, and mock interviews. Developed dynamic question banks, interview analytics, personalized study plans, and 30-day research caching.',
+      link: 'https://intelview-omega.vercel.app/',
     },
 
 
