@@ -1,42 +1,45 @@
-import CareerForge from './assets/cf.jpg';
-import Meif from './assets/meif.png';
-import Pgp from './assets/pgp.jpeg'
+import careerforge from './assets/cf.jpg';
+import meif from './assets/meif.png';
+import pgp from './assets/pgp.jpeg'
+import homiefoods from './assets/homiefoods.png'
+import floatchat from './assets/floatchat.png'
+import intelview from './assets/intelview.png'
 
 function Projects() {
   const projects = [
     {
       title: 'CAREER FORGE',
-      img: CareerForge,
+      img: careerforge,
       desc: 'Created a modern and user-friendly platform that showcases their comprehensive training programs, including FMOS and US CFA programs. Designed to empower aspiring financial professionals to explore opportunities and connect with CareerForge.',
       link: 'https://career-forge-phi.vercel.app/',
     },
     {
       title: 'MEIF',
-      img: Meif,
+      img: meif,
       desc: 'Developed a website to support an environmental initiative focused on native tree planting, hygiene awareness, and green space creation by school students. The site facilitates collaboration with organizations and provides advocacy resources.',
       link: 'https://www.motherearthindia.org.in/',
     },
     {
       title: 'PGP Associates',
-      img: Pgp,
+      img: pgp,
       desc: 'Built a full-stack advisory consultation platform enabling users to explore services and seamlessly book consultations. Integrated secure payment verification, automated email confirmations and Google Meet links with a responsive user interface.',
       link: 'https://pgpassociates19.com/',
     },
     {
       title: 'Homie Foods',
-      img: 'placeholder.png',
+      img: homiefoods,
       desc: 'Built a modern web platform connecting customers with home chefs, making authentic home-cooked food more accessible through seamless ordering. Empowered vendors with dedicated dashboards, real-time order tracking, and scalable backend management.',
       link: 'https://homiefoods.vercel.app/',
     },
     {
       title: 'FloatChat',
-      img: 'placeholder.png',
+      img: floatchat,
       desc: 'Developed FloatChat, an AI-powered ocean analytics platform enabling natural language exploration of large-scale ARGO datasets with interactive visualizations. Built a data pipeline for chatbot, anomaly detection, and time-series forecasting to deliver reliable ocean insights.',
       link: 'https://floatchat-lx7hr5qgx36canrejtznir.streamlit.app/',
     },
     {
       title: 'IntelView',
-      img: 'placeholder.png',
+      img: intelview,
       desc: 'Built an AI-powered interview platform using Next.js, Express.js, Prisma, Neon PostgreSQL, and Gemini AI for company-specific research, resume/JD analysis, and mock interviews. Developed dynamic question banks, interview analytics, personalized study plans, and 30-day research caching.',
       link: 'https://intelview-omega.vercel.app/',
     },
